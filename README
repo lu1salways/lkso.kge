@@ -1,0 +1,8 @@
+The goal of the LKSO Graphic Equalizer is to have a tiny and portable ui audio equalizer for your
+audio files before sending the signal to the audio interface. It is a WIP (work in progress) and
+contributions are welcome.
+
+If an existing program or source could be used instead of a new development, please replace with
+that one. The goal is to make it super small, with X, qt and pulse libraries.
+
+
